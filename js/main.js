@@ -67,7 +67,7 @@ detect = function () {
 				faceapi.draw.drawDetections(canvas, resizedResult)
 			}
 			// faceapi.draw.drawFaceExpressions(canvas, resizedResult, minConfidence)
-			faceapi.draw.drawFaceLandmarks(canvas, resizedResult)
+			// faceapi.draw.drawFaceLandmarks(canvas, resizedResult)
 
 			_faceLandmarks = resizedResult.landmarks;
 			console.log(_faceLandmarks.positions[30])

@@ -266,10 +266,10 @@
         }
       }
     ],
-    "paths": [
+    "paths_": [
       "./creative/eric/2022/training/face-api-FaceLandmark68/face-api/tiny_face_detector_model-shard1.js"
     ],
-    "paths_": [
+    "paths": [
       "./face-api/tiny_face_detector_model-shard1.js"
     ],
     "paths-live": [
